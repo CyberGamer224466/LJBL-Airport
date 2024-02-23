@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<Parking index="0" type="misc" name="Aeroclub hangar" lat="N46 21.67439400" lon="E14 10.32867120" heading="-220" radius="7.5"/>
+		<Parking index="1" type="misc" name="FlyCom hangar" lat="N46 21.63889320" lon="E14 10.37981220" heading="-220" radius="7.5"/>
+		<Parking index="2" type="misc" name="Grass apron 1" lat="N46 21.64124880" lon="E14 10.33334880" heading="-40" radius="7.5"/>
+		<Parking index="3" type="misc" name="Grass apron 2" lat="N46 21.61736340" lon="E14 10.35032160" heading="144" radius="7.5"/>
+		<Parking index="4" type="misc" name="Grass apron 3" lat="N46 21.62251140" lon="E14 10.36082400" heading="144" radius="7.5"/>
+		<Parking index="5" type="misc" name="Grass apron 4" lat="N46 21.59512800" lon="E14 10.35884280" heading="324" radius="7.5"/>
+		<Parking index="6" type="misc" name="Grass apron 5" lat="N46 21.60569640" lon="E14 10.37952540" heading="324" radius="7.5"/>
+		<Parking index="7" type="misc" name="Tow parking 1" lat="N46 21.67818000" lon="E14 10.19935440" heading="143" radius="7.5"/>
+		<Parking index="8" type="misc" name="Tow parking 2" lat="N46 21.68374560" lon="E14 10.21011780" heading="143" radius="7.5"/>
+		<Parking index="9" type="misc" name="Tow parking 3" lat="N46 21.67635060" lon="E14 10.27389780" heading="328" radius="7.5"/>
+	</parkingList>
+</groundnet>
